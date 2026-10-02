@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "95a855a631666d1f6e0152c5",
+  "owner": "unhhgtjt",
+  "repo": "page-3ff2b7758ff0e36629419e7d",
+  "title": "隔壁西站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3ff2b7758ff0e36629419e7d",
+      "a": "隔壁西站",
+      "b": "",
+      "entity": "隔壁西站",
+      "brand": "隔壁西站",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ed9c9f44e97ad73a2e36b442618906c836e8b93c19025c30e9cfe6f2e5b4e307",
+      "content": {
+        "keyword1": "隔壁西站",
+        "keyword2": "",
+        "primary_entity": "隔壁西站",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "隔壁西站是专注稳定高速体验的官方机场服务，提供VPN梯子网络加速、全球节点、多平台客户端下载与灵活订阅套餐，覆盖流媒体、游戏与办公场景。",
+          "AI_DESCRIPTION": "隔壁西站是专注稳定高速体验的官方机场服务，提供VPN梯子网络加速、全球节点、多平台客户端下载与灵活订阅套餐，覆盖流媒体、游戏与办公场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#071422;color:#e8f6ff;font-size:16px;line-height:1.65}a{color:#22d3ee;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#05101c;border-bottom:1px solid #155e75;position:sticky;top:0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding-top:12px;padding-bottom:12px}.brand{font-weight:700;font-size:1.15rem;color:#67e8f9}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#bae6fd;font-size:.95rem}main{padding:20px 0 40px}h1{font-size:1.85rem;line-height:1.3;color:#67e8f9;margin:8px 0 12px}h2{font-size:1.35rem;color:#a5f3fc;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #0e7490}h3{font-size:1.08rem;color:#67e8f9;margin:0 0 8px}p,li{color:#dbeafe}p{margin:0 0 12px}.lead{font-size:1.05rem}.grid{display:grid;grid-template-columns:1fr;gap:12px}.card{background:#0c2238;border:1px solid #155e75;border-radius:10px;padding:14px}.card.featured{border-color:#22d3ee;box-shadow:0 0 0 1px #22d3ee inset}.price{font-size:1.4rem;color:#67e8f9;font-weight:700;margin:4px 0}.subprice{color:#7dd3fc;font-size:.92rem;margin-bottom:8px}ul.feat{margin:0;padding-left:18px}ul.feat li{margin:4px 0}.steps{margin:0;padding-left:20px}.steps li{margin:8px 0}details{background:#0c2238;border:1px solid #164e63;border-radius:8px;padding:8px 12px;margin:8px 0}summary{color:#67e8f9;font-weight:650}details p{margin:8px 0 4px}footer{background:#05101c;border-top:1px solid #155e75;padding:22px 0;color:#93c5fd;font-size:.92rem}footer h2{font-size:1.05rem;margin-top:8px}.links{display:flex;flex-wrap:wrap;gap:8px 12px}.muted{color:#7dd3fc}.adbox{border:1px dashed #155e75;border-radius:8px;padding:12px;background:#082033}@media (min-width:720px){.grid{grid-template-columns:repeat(3,1fr)}.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:12px}h1{font-size:2.1rem}}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#\">隔壁西站</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>隔壁西站</h1><p class=\"lead\">隔壁西站官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载指引。我们把稳定线路、清晰套餐和可落地的导入步骤放在同一页，方便你按设备完成订阅与连接。</p><section id=\"intro\"><h2>品牌简介</h2><p>隔壁西站定位为面向个人与小团队的机场服务。名称取自「西站」这一交通枢纽意象：把常用地区的入口集中起来，用统一订阅分发到 Clash、Shadowrocket、v2rayN 等客户端。本站即官方站点，用于说明套餐边界、客户端选择与导入流程，不托管来路不明的安装包。</p><p>线路侧覆盖香港、台湾、日本、新加坡、美国与部分欧洲入口，旗舰与团队套餐包含 IPLC 专线游戏优化节点。流量按自然月重置，同时在线设备数按套餐限制。我们不公布虚构评分，也不把第三方评论当作卖点；是否适合你，取决于设备数量、流媒体需求和是否需要游戏低延迟。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid-2\"><article class=\"card\"><h3>流媒体与长视频</h3><p>基础版可满足常见站点的基础解锁；旗舰版强调全节点原生流媒体能力，适合长时间 1080P/4K 播放与多地区内容切换。建议优先选择标注流媒体的节点，并在客户端开启规则分流，避免国内流量绕行。</p></article><article class=\"card\"><h3>游戏与实时语音</h3><p>对延迟敏感的对战与语音，优先使用旗舰版 IPLC 专线。连接后在客户端查看当前延迟与丢包，必要时切换同区域备用节点。团队版适合战队或工作室多设备同时在线。</p></article><article class=\"card\"><h3>远程办公与开发</h3><p>代码仓库、文档协作、跨境会议可通过分流规则只代理必要域名。团队版支持更高并发与定制路由，适合把办公网段和娱乐流量分开。</p></article><article class=\"card\"><h3>学术检索与资料同步</h3><p>论文库、预印本与国际网盘同步对稳定性要求高于极限带宽。建议使用旗舰节点池并保留一条备用线路，避免单一入口拥塞时中断下载。</p></article></div></section><section id=\"plans\"><h2>订阅套餐</h2><p>价格按月展示，年付可锁定当前档位。流量为极速流量额度，用尽后需升级或等待重置。以下为官网当前公开档位。</p><div class=\"grid\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择</h2><p>隔壁西站采用通用订阅链接，不绑定单一闭源壳客户端。官方建议：先确定系统，再选维护活跃、支持订阅转换的程序，最后在用户中心复制订阅地址导入。本页强调客户端选择，是因为同一套餐在不同程序里的分流、TUN 与规则质量差异很大。</p><div class=\"grid-2\"><article class=\"card\"><h3>Windows</h3><p>日常推荐 Clash Verge 或 v2rayN。前者图形规则清晰，后者对多种内核兼容好。下载请走应用官方渠道，导入订阅后开启系统代理或 TUN，再按域名规则分流。</p></article><article class=\"card\"><h3>macOS</h3><p>轻量需求可用 ClashX 系；需要策略组与网界面板时考虑 Surge。导入订阅后检查 DNS 与 Fake-IP 设置，避免国内应用被全局带走。</p></article><article class=\"card\"><h3>Android</h3><p>Clash Meta 系与 v2rayNG 覆盖大多数机型。注意省电策略不要杀掉后台 VPN。若需要分应用代理，优先选支持按包名分流的客户端。</p></article><article class=\"card\"><h3>iOS 与 iPadOS</h3><p>Shadowrocket、Stash、Quantumult X 均为常见选择。请从正式商店获取，导入后更新资源与规则。iOS 对配置描述文件较敏感，不要混用多个互相冲突的 VPN 配置。</p></article></div><p>Linux 与路由器用户可使用 clash / sing-box 订阅。团队版若需落地网关，把订阅交给一台常开设备做旁路网关，比每台终端单独拨号更省设备额度。</p></section><section id=\"guide\"><h2>操作说明</h2><ol class=\"steps\"><li>在隔壁西站官网选择套餐并完成订阅，进入用户中心复制通用订阅链接。链接属于账号凭证，不要公开张贴。</li><li>按上一节选择与系统匹配的客户端，仅从开发者站点或应用商店安装，避免来路不明的「一键包」。</li><li>在客户端选择「从 URL 导入 / 订阅」，粘贴链接并更新节点。若程序需要类型，选择 Clash 或通用订阅即可。</li><li>打开规则模式而非无脑全局：国内直连、国际代理。游戏与会议可临时切到对应区域节点。</li><li>连接后访问需要加速的站点验证。若失败，先更新订阅、更换同区域节点，再检查系统时间与 DNS。</li><li>多设备共用时不要超过套餐在线上限。更换设备先在旧设备断开，再在新设备连接。</li></ol><p>官方下载相关说明只覆盖「去哪里选客户端」和「如何导入」，不提供来源不明的安装文件镜像。若客户端无法识别订阅，核对链接完整性后改用 Clash 配置再试。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>隔壁西站是不是官方机场？如何确认官网？</summary><p>是。本页为隔壁西站官方网站内容页，用于公布套餐、客户端选择与导入步骤。认准站点标识与用户中心订阅入口，不要通过来路不明的第三方「代充」获取链接。</p></details><details><summary>客户端应该去哪里下载？你们提供安装包吗？</summary><p>请在各客户端的官方页面或应用商店下载 Clash、v2rayN、Shadowrocket 等程序。隔壁西站不托管安装包，以降低篡改风险。官方下载在本语境下指「按官网指引选择正版客户端」，而不是把所有二进制都放在同一压缩包里。</p></details><details><summary>三个套餐怎么选？流量和设备不够会怎样？</summary><p>单人轻度浏览选基础版；需要原生流媒体、游戏专线或优先工单选旗舰版；工作室或多终端选团队版。流量用尽或设备超限会导致新连接失败或降速，此时应升级档位或等待月度重置，而不是反复重连占用会话。</p></details><details><summary>节点覆盖哪些地区？游戏加速有什么区别？</summary><p>常规覆盖包括香港、台湾、日本、韩国、新加坡、美国与部分欧洲入口。旗舰版增加 IPLC 专线游戏优化，团队版另有 VIP 高带宽节点。游戏场景请固定区域、关闭多余规则探测，并把语音与对战走同一出口。</p></details><details><summary>是否记录上网内容？出问题如何反馈？</summary><p>浏览内容不作为日志保存。仅在排障所需范围内保留连接元数据。基础版走常规工单；旗舰版提供 7x24 优先工单；团队版另有专属客户经理通道。反馈时请带上客户端名称、操作系统和订阅更新时间，便于对照节点状态。</p></details><details><summary>订阅链接泄露了怎么办？可以在路由器上使用吗？</summary><p>立即在用户中心重置订阅。重置后旧链接失效，需在所有客户端重新导入。路由器或旁路网关可以使用同一订阅，但会计入设备在线数，团队版更适合这种部署。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\" id=\"sitemap\"><h2>网站地图</h2><p class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">订阅套餐</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#\">官网首页</a><a href=\"#plans\">官方下载指引</a></p><h2>广告</h2><div class=\"adbox\"><p>合作展示位：云主机、域名与企业网络服务咨询（文字招商，不含外部资源）。</p></div><h2>友情链接</h2><p class=\"links\"><a href=\"#\">客户端文档索引</a><a href=\"#\">规则与分流说明</a><a href=\"#\">节点状态说明</a><a href=\"#\">会员中心入口说明</a></p><p class=\"muted\">© 隔壁西站官方网站 · 机场订阅与 VPN 梯子网络加速说明页 · 保留套餐与客户端选择的最终解释权</p></div></footer>",
+          "hash": "5a4139c396e205a4eb308014bf6cfe9cc8f750c89190a1671cd4ba19d971a37d",
+          "seo": {
+            "title": "隔壁西站官网 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "隔壁西站,隔壁西站机场,隔壁西站VPN,隔壁西站官网,VPN梯子,网络加速器,机场订阅,客户端下载,官方下载,Clash,Shadowrocket",
+            "description": "隔壁西站是专注稳定高速体验的官方机场服务，提供VPN梯子网络加速、全球节点、多平台客户端下载与灵活订阅套餐，覆盖流媒体、游戏与办公场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ei51k.cn",
+    "host": "p-db64079b62.ei51k.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ei51k.cn",
+      "url": "https://ei51k.cn/",
+      "label": "彩色狗(ColorfulDog)",
+      "apex": "ei51k.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-10934d3f1655c3c728cb2540"
+    },
+    {
+      "host": "dzkgp.cn",
+      "url": "https://dzkgp.cn/",
+      "label": "隔壁西站",
+      "apex": "dzkgp.cn",
+      "kind": null,
+      "identity": "g5gxus/page-b1da3e55ab4da2014601d837"
+    },
+    {
+      "host": "kccdz.cn",
+      "url": "https://kccdz.cn/",
+      "label": "隔壁西站",
+      "apex": "kccdz.cn",
+      "kind": null,
+      "identity": "mk5ajyye/page-2a7b1d5654d1ae21b18ff9c3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "887e4344a6751a1c82003028ea4fbf81a673fa4a574e27fa204555acddb48c82",
+    "sitemap.xml": "6e6e5e7ac73ada50384ae9c31aec2b0b54512586aaeeb1f08500c1d26f97e3ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e62155e9b30a84eddadf945c7e646c087b7c43fd739d8d33a44abba40cca66e0",
+    "robots.txt": "b55baf6794edcbac3eef4633d2e0d3936893c7b748159dd7136244cb84a847c7",
+    "3088482be75c49ff0f6e26081886c33d.txt": "d7eaa70a77d40fe0488fef74205928dee56dea691dffb7590c91e916590a6863"
+  },
+  "revision": "b568349cbbcf2f532b81a6488b0183eafb6928c3b7f656317b8b9c4bf4dc59eb"
+}
